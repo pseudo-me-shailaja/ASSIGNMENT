@@ -16,7 +16,7 @@ int main()
   else
   {
     cout<<"You are not eligible to vote."<<endl;
-    cout<<"Wait for "<<18-age;
+    cout<<"Wait for "<<18-age<<" years ";
   }
   return 0;
 }
