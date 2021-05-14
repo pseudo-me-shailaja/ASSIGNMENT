@@ -6,7 +6,8 @@ using namespace std;
 
 int main()
  {
-  float a,b,pro;
+  double a,b;
+  double pro;
   cout<<"Enter two numbers:";
   cin>>a>>b;
   pro=a*b;
